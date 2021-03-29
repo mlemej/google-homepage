@@ -7,6 +7,8 @@
     <title>Google Clone</title>
 </head>
 <body>
+    <header></header>
     <h1>Google</h1>
+    <footer></footer>
 </body>
 </html>
